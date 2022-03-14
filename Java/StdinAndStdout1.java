@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 /**
+ * Ex2 
  * Practice "standard input" and "standard output" 
  */
 public class StdinAndStdout1 {
@@ -13,5 +14,7 @@ public class StdinAndStdout1 {
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
+
+        scan.close();
     }
 }
