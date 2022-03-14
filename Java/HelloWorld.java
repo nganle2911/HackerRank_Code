@@ -1,9 +1,5 @@
 /**
- * Exercise
- * Input Format: There is no input for this challenge
- * Output Format: You must print two lines of output: 
- * 1. Print 'Hello, World.' on the first line
- * 2. Print 'Hello, Java.' on the second line
+ * Print "Hello, World."
  */
 
 public class HelloWorld {
